@@ -1,0 +1,23 @@
+{
+  "name": "airplanes",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/ste-vg/pen/GRooLza](https://codepen.io/ste-vg/pen/GRooLza).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmansourwael/ftsaaa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmansourwael/ftsaaa/issues"
+  },
+  "homepage": "https://github.com/benmansourwael/ftsaaa#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
